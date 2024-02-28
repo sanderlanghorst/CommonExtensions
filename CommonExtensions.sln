@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonExtensions", "CommonExtensions\CommonExtensions.csproj", "{31752088-DE7A-44FE-9ABC-491260C366E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionsTests", "ExtensionsTests\ExtensionsTests.csproj", "{F17B84EE-58D1-4C7E-82B3-E437B37A8879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31752088-DE7A-44FE-9ABC-491260C366E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31752088-DE7A-44FE-9ABC-491260C366E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31752088-DE7A-44FE-9ABC-491260C366E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31752088-DE7A-44FE-9ABC-491260C366E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17B84EE-58D1-4C7E-82B3-E437B37A8879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17B84EE-58D1-4C7E-82B3-E437B37A8879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17B84EE-58D1-4C7E-82B3-E437B37A8879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17B84EE-58D1-4C7E-82B3-E437B37A8879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
