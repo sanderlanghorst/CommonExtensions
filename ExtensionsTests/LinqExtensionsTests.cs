@@ -2,7 +2,7 @@ using CommonExtensions;
 
 namespace ExtensionsTests;
 
-public class Tests
+public class LinqExtensionsTests
 {
     [SetUp]
     public void Setup()
